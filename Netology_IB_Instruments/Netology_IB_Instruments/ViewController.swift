@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Netology_IB_Instruments'
+//  Netology_IB_Instruments
 //
-//  Created by V SEO on 23.05.2022.
+//  Created by V SEO on 24.05.2022.
 //
 
 import UIKit
