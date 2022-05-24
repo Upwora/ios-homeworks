@@ -7,31 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6DEB088A283BEBF8005699B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEB0889283BEBF8005699B9 /* AppDelegate.swift */; };
-		6DEB088C283BEBF8005699B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEB088B283BEBF8005699B9 /* SceneDelegate.swift */; };
-		6DEB088E283BEBF8005699B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEB088D283BEBF8005699B9 /* ViewController.swift */; };
-		6DEB0891283BEBF8005699B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DEB088F283BEBF8005699B9 /* Main.storyboard */; };
-		6DEB0893283BEBF9005699B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DEB0892283BEBF9005699B9 /* Assets.xcassets */; };
-		6DEB0896283BEBF9005699B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DEB0894283BEBF9005699B9 /* LaunchScreen.storyboard */; };
-		6DEB089E283BF2C1005699B9 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6DEB089D283BF2C0005699B9 /* ProfileView.xib */; };
-		6DEB08A0283BF405005699B9 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEB089F283BF405005699B9 /* ProfileView.swift */; };
+		6DBC53B9283D0A9900801B96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC53B8283D0A9900801B96 /* AppDelegate.swift */; };
+		6DBC53BB283D0A9900801B96 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC53BA283D0A9900801B96 /* SceneDelegate.swift */; };
+		6DBC53BD283D0A9900801B96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC53BC283D0A9900801B96 /* ViewController.swift */; };
+		6DBC53C2283D0A9A00801B96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DBC53C1283D0A9A00801B96 /* Assets.xcassets */; };
+		6DBC53C5283D0A9A00801B96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DBC53C3283D0A9A00801B96 /* LaunchScreen.storyboard */; };
+		6DBC53CD283D0ADD00801B96 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6DBC53CC283D0ADD00801B96 /* ProfileView.xib */; };
+		6DBC53CF283D0B3100801B96 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC53CE283D0B3100801B96 /* ProfileView.swift */; };
+		6DBC53D1283D0BD500801B96 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DBC53D0283D0BD500801B96 /* Profile.storyboard */; };
+		6DBC53D3283D0BF600801B96 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC53D2283D0BF600801B96 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6DEB0886283BEBF8005699B9 /* Netology_IB_Instruments'.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Netology_IB_Instruments'.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6DEB0889283BEBF8005699B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6DEB088B283BEBF8005699B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		6DEB088D283BEBF8005699B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6DEB0890283BEBF8005699B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6DEB0892283BEBF9005699B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6DEB0895283BEBF9005699B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6DEB0897283BEBF9005699B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6DEB089D283BF2C0005699B9 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
-		6DEB089F283BF405005699B9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		6DBC53B5283D0A9900801B96 /* Netology_IB_Instruments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Netology_IB_Instruments.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DBC53B8283D0A9900801B96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6DBC53BA283D0A9900801B96 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		6DBC53BC283D0A9900801B96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6DBC53C1283D0A9A00801B96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6DBC53C4283D0A9A00801B96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6DBC53C6283D0A9A00801B96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6DBC53CC283D0ADD00801B96 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
+		6DBC53CE283D0B3100801B96 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		6DBC53D0283D0BD500801B96 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
+		6DBC53D2283D0BF600801B96 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6DEB0883283BEBF8005699B9 /* Frameworks */ = {
+		6DBC53B2283D0A9900801B96 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +43,75 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6DEB087D283BEBF8005699B9 = {
+		6DBC53AC283D0A9900801B96 = {
 			isa = PBXGroup;
 			children = (
-				6DEB0888283BEBF8005699B9 /* Netology_IB_Instruments' */,
-				6DEB0887283BEBF8005699B9 /* Products */,
+				6DBC53B7283D0A9900801B96 /* Netology_IB_Instruments */,
+				6DBC53B6283D0A9900801B96 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6DEB0887283BEBF8005699B9 /* Products */ = {
+		6DBC53B6283D0A9900801B96 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6DEB0886283BEBF8005699B9 /* Netology_IB_Instruments'.app */,
+				6DBC53B5283D0A9900801B96 /* Netology_IB_Instruments.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6DEB0888283BEBF8005699B9 /* Netology_IB_Instruments' */ = {
+		6DBC53B7283D0A9900801B96 /* Netology_IB_Instruments */ = {
 			isa = PBXGroup;
 			children = (
-				6DEB0889283BEBF8005699B9 /* AppDelegate.swift */,
-				6DEB088B283BEBF8005699B9 /* SceneDelegate.swift */,
-				6DEB088D283BEBF8005699B9 /* ViewController.swift */,
-				6DEB089F283BF405005699B9 /* ProfileView.swift */,
-				6DEB088F283BEBF8005699B9 /* Main.storyboard */,
-				6DEB089D283BF2C0005699B9 /* ProfileView.xib */,
-				6DEB0892283BEBF9005699B9 /* Assets.xcassets */,
-				6DEB0894283BEBF9005699B9 /* LaunchScreen.storyboard */,
-				6DEB0897283BEBF9005699B9 /* Info.plist */,
+				6DBC53B8283D0A9900801B96 /* AppDelegate.swift */,
+				6DBC53BA283D0A9900801B96 /* SceneDelegate.swift */,
+				6DBC53BC283D0A9900801B96 /* ViewController.swift */,
+				6DBC53C1283D0A9A00801B96 /* Assets.xcassets */,
+				6DBC53C3283D0A9A00801B96 /* LaunchScreen.storyboard */,
+				6DBC53C6283D0A9A00801B96 /* Info.plist */,
+				6DBC53CC283D0ADD00801B96 /* ProfileView.xib */,
+				6DBC53CE283D0B3100801B96 /* ProfileView.swift */,
+				6DBC53D0283D0BD500801B96 /* Profile.storyboard */,
+				6DBC53D2283D0BF600801B96 /* ProfileViewController.swift */,
 			);
-			path = "Netology_IB_Instruments'";
+			path = Netology_IB_Instruments;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6DEB0885283BEBF8005699B9 /* Netology_IB_Instruments' */ = {
+		6DBC53B4283D0A9900801B96 /* Netology_IB_Instruments */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6DEB089A283BEBF9005699B9 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments'" */;
+			buildConfigurationList = 6DBC53C9283D0A9A00801B96 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */;
 			buildPhases = (
-				6DEB0882283BEBF8005699B9 /* Sources */,
-				6DEB0883283BEBF8005699B9 /* Frameworks */,
-				6DEB0884283BEBF8005699B9 /* Resources */,
+				6DBC53B1283D0A9900801B96 /* Sources */,
+				6DBC53B2283D0A9900801B96 /* Frameworks */,
+				6DBC53B3283D0A9900801B96 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Netology_IB_Instruments'";
-			productName = "Netology_IB_Instruments'";
-			productReference = 6DEB0886283BEBF8005699B9 /* Netology_IB_Instruments'.app */;
+			name = Netology_IB_Instruments;
+			productName = Netology_IB_Instruments;
+			productReference = 6DBC53B5283D0A9900801B96 /* Netology_IB_Instruments.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6DEB087E283BEBF8005699B9 /* Project object */ = {
+		6DBC53AD283D0A9900801B96 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					6DEB0885283BEBF8005699B9 = {
+					6DBC53B4283D0A9900801B96 = {
 						CreatedOnToolsVersion = 13.4;
 					};
 				};
 			};
-			buildConfigurationList = 6DEB0881283BEBF8005699B9 /* Build configuration list for PBXProject "Netology_IB_Instruments'" */;
+			buildConfigurationList = 6DBC53B0283D0A9900801B96 /* Build configuration list for PBXProject "Netology_IB_Instruments" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +119,50 @@
 				en,
 				Base,
 			);
-			mainGroup = 6DEB087D283BEBF8005699B9;
-			productRefGroup = 6DEB0887283BEBF8005699B9 /* Products */;
+			mainGroup = 6DBC53AC283D0A9900801B96;
+			productRefGroup = 6DBC53B6283D0A9900801B96 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6DEB0885283BEBF8005699B9 /* Netology_IB_Instruments' */,
+				6DBC53B4283D0A9900801B96 /* Netology_IB_Instruments */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6DEB0884283BEBF8005699B9 /* Resources */ = {
+		6DBC53B3283D0A9900801B96 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DEB089E283BF2C1005699B9 /* ProfileView.xib in Resources */,
-				6DEB0896283BEBF9005699B9 /* LaunchScreen.storyboard in Resources */,
-				6DEB0893283BEBF9005699B9 /* Assets.xcassets in Resources */,
-				6DEB0891283BEBF8005699B9 /* Main.storyboard in Resources */,
+				6DBC53CD283D0ADD00801B96 /* ProfileView.xib in Resources */,
+				6DBC53C5283D0A9A00801B96 /* LaunchScreen.storyboard in Resources */,
+				6DBC53D1283D0BD500801B96 /* Profile.storyboard in Resources */,
+				6DBC53C2283D0A9A00801B96 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6DEB0882283BEBF8005699B9 /* Sources */ = {
+		6DBC53B1283D0A9900801B96 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DEB08A0283BF405005699B9 /* ProfileView.swift in Sources */,
-				6DEB088E283BEBF8005699B9 /* ViewController.swift in Sources */,
-				6DEB088A283BEBF8005699B9 /* AppDelegate.swift in Sources */,
-				6DEB088C283BEBF8005699B9 /* SceneDelegate.swift in Sources */,
+				6DBC53CF283D0B3100801B96 /* ProfileView.swift in Sources */,
+				6DBC53BD283D0A9900801B96 /* ViewController.swift in Sources */,
+				6DBC53D3283D0BF600801B96 /* ProfileViewController.swift in Sources */,
+				6DBC53B9283D0A9900801B96 /* AppDelegate.swift in Sources */,
+				6DBC53BB283D0A9900801B96 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		6DEB088F283BEBF8005699B9 /* Main.storyboard */ = {
+		6DBC53C3283D0A9A00801B96 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				6DEB0890283BEBF8005699B9 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		6DEB0894283BEBF9005699B9 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6DEB0895283BEBF9005699B9 /* Base */,
+				6DBC53C4283D0A9A00801B96 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		6DEB0898283BEBF9005699B9 /* Debug */ = {
+		6DBC53C7283D0A9A00801B96 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -234,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		6DEB0899283BEBF9005699B9 /* Release */ = {
+		6DBC53C8283D0A9A00801B96 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -288,7 +284,7 @@
 			};
 			name = Release;
 		};
-		6DEB089B283BEBF9005699B9 /* Debug */ = {
+		6DBC53CA283D0A9A00801B96 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -296,10 +292,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Netology_IB_Instruments'/Info.plist";
+				INFOPLIST_FILE = Netology_IB_Instruments/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = Profile;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -307,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "myOwn.Netology-IB-Instruments-";
+				PRODUCT_BUNDLE_IDENTIFIER = "myOwn.Netology-IB-Instruments";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -315,7 +312,7 @@
 			};
 			name = Debug;
 		};
-		6DEB089C283BEBF9005699B9 /* Release */ = {
+		6DBC53CB283D0A9A00801B96 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -323,10 +320,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Netology_IB_Instruments'/Info.plist";
+				INFOPLIST_FILE = Netology_IB_Instruments/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = Profile;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -334,7 +332,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "myOwn.Netology-IB-Instruments-";
+				PRODUCT_BUNDLE_IDENTIFIER = "myOwn.Netology-IB-Instruments";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -345,25 +343,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6DEB0881283BEBF8005699B9 /* Build configuration list for PBXProject "Netology_IB_Instruments'" */ = {
+		6DBC53B0283D0A9900801B96 /* Build configuration list for PBXProject "Netology_IB_Instruments" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6DEB0898283BEBF9005699B9 /* Debug */,
-				6DEB0899283BEBF9005699B9 /* Release */,
+				6DBC53C7283D0A9A00801B96 /* Debug */,
+				6DBC53C8283D0A9A00801B96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6DEB089A283BEBF9005699B9 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments'" */ = {
+		6DBC53C9283D0A9A00801B96 /* Build configuration list for PBXNativeTarget "Netology_IB_Instruments" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6DEB089B283BEBF9005699B9 /* Debug */,
-				6DEB089C283BEBF9005699B9 /* Release */,
+				6DBC53CA283D0A9A00801B96 /* Debug */,
+				6DBC53CB283D0A9A00801B96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6DEB087E283BEBF8005699B9 /* Project object */;
+	rootObject = 6DBC53AD283D0A9900801B96 /* Project object */;
 }
